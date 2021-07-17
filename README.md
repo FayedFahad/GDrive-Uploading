@@ -25,5 +25,5 @@
  <br>
  <br>
  <p align="center">
-<img src=https://i.imgur.com/xAnqa55.png height=200 width=400 >
+<img src=https://i.imgur.com/xAnqa55.png height=74 width=400 >
 </p>
