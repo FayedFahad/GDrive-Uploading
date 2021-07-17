@@ -25,5 +25,5 @@
  <br>
  <br>
  <p align="center">
-<img src=https://mk0analyticsindf35n9.kinstacdn.com/wp-content/uploads/2020/04/COLAB.jpeg height=200 width=400 >
+<img src=https://i.imgur.com/xAnqa55.png height=200 width=400 >
 </p>
