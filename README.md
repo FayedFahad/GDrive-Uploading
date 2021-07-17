@@ -19,7 +19,7 @@
   - Youtube transfer to GD  &nbsp;&nbsp;&nbsp;<a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/ColabYoutube_Download.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   <pre></pre>
   - [ ] **Drive Video Editing**
-  - Split Convert Drive video  &nbsp;&nbsp;&nbsp;<a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/ColabVideo**_Convert.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  - Split Trim Drive video  &nbsp;&nbsp;&nbsp;<a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/ColabVideo**_SplitV2.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   <pre></pre> 
  <br>
  <br>
