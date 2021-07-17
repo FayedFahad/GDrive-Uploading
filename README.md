@@ -4,9 +4,9 @@
 
 # *Colaboratory Notebook*
  - [ ] **URL Downloading**
- - URL Transfer Version 1  <a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/ColabURL*V1_Transfer_%26Copy.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
- - URL Transfer Version 2 <a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/ColabURL*v2_Transfer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
- - cURL Dynamic Version 3 <a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/ColabURL*V3_DownloadDynamicURL.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ 
+ - URL Transfer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/ColabURL*v2_Transfer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+ - cURL Dynamic &nbsp; <a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/ColabURL*V3_DownloadDynamicURL.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
  <pre></pre> 
   - [ ] **Torrent Downloading**
  - Torrent Downloading Simple &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://colab.research.google.com/github/FayedFahad/GDrive-Uploading/blob/master/ColabTorrent_Simple.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
